@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+    box-sizing: border-box;
+    min-height: 100vh; align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-repeat: no-repeat; background-position-y: 45%;
+    background-size: cover;
+    background-color: rgba(255, 166, 0, 0.822);
+}
+div {
+    color: rgb(138, 138, 138);
+    background-color: rgb(138, 138, 138);
+    padding: 18px;
+    border-radius: 30px;
+}
+button {
+    border-radius: 44440px;
+    color: orange;
+}
+#orange {
+    color: orange
+}
